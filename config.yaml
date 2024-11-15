@@ -1,0 +1,10 @@
+calculation_type: 2
+inputs:
+  resource:
+    usage: 500
+    requested: null
+  metric:
+    desired: 60
+  replicas:
+    current: 1
+    desired: 1
